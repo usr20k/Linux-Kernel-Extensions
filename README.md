@@ -18,7 +18,7 @@ This is a table containing all of the linux system calls with our two new functi
 ### syscalls.h
 This is our header file for all system calls with declarations for our two new system calls.
 
-###syscall_test.c
+### syscall_test.c
 This is a simple c program that will call our two new system calls and indicate if they were successful or not.
 
 ### syslog
